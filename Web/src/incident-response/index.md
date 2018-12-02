@@ -16,7 +16,7 @@ ImgBot Information Security's intentions for publishing a Data Breach Response P
 
 ## 1.1 Background
 
-This policy mandates that any individual who suspects that a theft, breach or exposure of ImgBot Protected data or ImgBot Sensitive data has occurred must immediately provide a description of what occurred via e-mail to [help@imgbot.net](mailto:help@imgbot.net). This e-mail address is monitored by ImgBot’s Information Security Administrator ([@dabutvin](https://github.com/dabutvin)). ImgBot will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.
+This policy mandates that any individual who suspects that a theft, breach or exposure of ImgBot Protected data or ImgBot Sensitive data has occurred must immediately provide a description of what occurred via e-mail to [help@imgbot.net](mailto:help@imgbot.net). This e-mail address is monitored by ImgBot’s Information Security Administrator. ImgBot will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.
 
 ## 2.0 Scope
 
@@ -26,7 +26,7 @@ This policy applies to all whom collect, access, maintain, distribute, process, 
 
 As soon as a theft, data breach, or exposure containing ImgBot Protected data or ImgBot Sensitive data is identified, the process of removing all access to that resource will begin.
 
-The Executive Director ([@dabutvin](https://github.com/dabutvin)) will be notified of the theft, breach, or exposure and will analyze the breach or exposure to determine the root cause. Additionally the Executive Director will decide how to communicate the breach to: a) internal employees, b) the public, and c) those directly affected.
+The Executive Director will be notified of the theft, breach, or exposure and will analyze the breach or exposure to determine the root cause. Additionally the Executive Director will decide how to communicate the breach to: a) internal employees, b) the public, and c) those directly affected.
 
 ## 3.2 Ownership and Responsibilities
 
@@ -51,13 +51,5 @@ Any ImgBot personnel found in violation of this policy may be subject to discipl
 - **Information Resource** - The data and information assets of an organization, department or unit.
 - **Safeguards** - Countermeasures, controls put in place to avoid, detect, counteract, or minimize security risks to physical property, information, computer systems, or other assets. Safeguards help to reduce the risk of damage or loss by stopping, deterring, or slowing down an attack against an asset.
 - **Sensitive data** - Data that is encrypted or in plain text and contains PII or PHI data. See PII and PHI above.
-
-## 6.0 Revision History
-
-### Version 1.0
-
-- June 23, 2018
-- Author: @dabutvin
-- Initial version
 
 </div>

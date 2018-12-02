@@ -12,7 +12,7 @@ Last modified: August 29, 2017.
 
 ## General Information
 
-ImgBot is owned and operated by [dabutvin](https://github.com/dabutvin). ImgBot ("we", "us" or "our") applies this policy to the Subscriber (the "Subscriber", "user", you" or "your"). By using ImgBot, you expressly consent to the data handling practices described in this notice.
+ImgBot is owned and operated by How Tall LLC. ImgBot ("we", "us" or "our") applies this policy to the Subscriber (the "Subscriber", "user", you" or "your"). By using ImgBot, you expressly consent to the data handling practices described in this notice.
 
 We collect no information of those who sign up to ImgBot apart from the name of the repo that ImgBot is installed into and aggregate information on what pages consumers access or visit, and information volunteered by the consumer. The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organisations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 

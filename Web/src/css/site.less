@@ -66,6 +66,8 @@ ol {
   padding: 100px 0;
   position: relative;
   overflow: hidden;
+  width: 99%;
+  box-shadow: #dee0e0 0 0 15px 15px;
 
   h1 {
     font-size: 100px;
@@ -81,9 +83,6 @@ ol {
     right: 20px;
   }
 
-  & + div {
-    border-top: 2px solid @green;
-  }
 
   @media only screen and (max-width: @medium) {
     text-align: center;
@@ -133,9 +132,14 @@ h2 {
   color: @green;
 }
 
+.container-spaced {
+  padding: 100px 0;
+}
+
 .container-light {
-  background-color: lighten(@green, 30%);
+  background-color: lighten(@green, 50%);
   //background-color: #e6f5f0;
+
   h2 {
     color: #000;
   }
